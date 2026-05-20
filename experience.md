@@ -21,13 +21,13 @@ title: Experience
                     <h3>Principal Consultant, UMA Cyber Risk Management</h3>
                     <p class="timeline-date">2026 – Present</p>
                     <p class="timeline-description">
-                        Strategic initiative focused on designing, scaling, and delivering tailored, right-sized GRC solutions for small-to-medium businesses (SMBs), educational institutions, non-profits, and faith-based organizations.
+                        Strategic initiative focused on designing, scaling, and delivering tailored, right-sized GRC solutions for small-to-medium businesses (SMBs), educational institutions, and non-profit organizations with limited resources and budget constraints.
                     </p>
                     <ul class="timeline-highlights">
-                        <li><strong>Framework Adaptation & Engineering:</strong> Decomposed NIST CSF 2.0 framework to develop actionable, simplified security checklists specifically tailored to low-resource, high-risk environments</li>
-                        <li><strong>HECVAT Integration Strategy:</strong> Formulated roadmap to integrate the Higher Education Community Vendor Assessment Tool (HECVAT 4.0) into service offerings for third-party risk management</li>
-                        <li><strong>Digital Architecture & Automation:</strong> Built and launched firm's digital presence at umarisk.com, designing automated client intake and structured assessment forms</li>
-                        <li><strong>Peer Review & Methodology Refinement:</strong> Collaborated with cybersecurity professionals to stress-test governance methodologies and optimize control clarity</li>
+                        <li><strong>Framework Adaptation & Engineering:</strong> Decomposed NIST CSF 2.0 framework to develop actionable, simplified security checklists specifically tailored to low-resource environments, ensuring compliance without excessive overhead.</li>
+                        <li><strong>HECVAT Integration Strategy:</strong> Formulated roadmap to integrate the Higher Education Community Vendor Assessment Tool (HECVAT 4.0) into service offerings for educational institution clients, streamlining vendor risk assessments.</li>
+                        <li><strong>Digital Architecture & Automation:</strong> Built and launched firm's digital presence at umarisk.com, designing automated client intake and structured assessment platform to scale service delivery.</li>
+                        <li><strong>Peer Review & Methodology Refinement:</strong> Collaborated with cybersecurity professionals to stress-test governance methodologies and optimize control clarity for accessibility across diverse organizational contexts.</li>
                     </ul>
                 </div>
             </div>
@@ -50,12 +50,12 @@ title: Experience
                         Managed core enterprise systems and engineered security controls to ensure operational compliance and financial accuracy across the organization.
                     </p>
                     <ul class="timeline-highlights">
-                        <li><strong>Enterprise Risk Assessment:</strong> Identified and assessed high-priority risks related to IT controls within NetSuite ERP, mitigating a potential $4M financial impact through strategic remediation plans</li>
-                        <li><strong>Enterprise System Administration:</strong> Primary administrator for NetSuite and SAP Concur, maintaining system health and ensuring accuracy of critical financial reporting data (charts of accounts, A/R aging)</li>
-                        <li><strong>Security Control Engineering:</strong> Architected and implemented robust security controls including RBAC, MFA, patch management, backup strategies, and incident notification alerts</li>
-                        <li><strong>Workflow Automation:</strong> Leveraged Celigo to design complex automated integrations and workflows with strict change management enforcement and sandbox testing protocols</li>
-                        <li><strong>Executive Governance:</strong> Created comprehensive financial dashboards and system documentation for C-suite decision-making and compliance oversight</li>
-                        <li><strong>Vendor Management:</strong> Acted as primary technical liaison ensuring all third-party systems and SLAs adhered to corporate governance and compliance requirements</li>
+                        <li><strong>Enterprise Risk Assessment:</strong> Identified and assessed high-priority risks related to IT controls within NetSuite ERP, mitigating a potential $4M financial impact through strategic remediation roadmap.</li>
+                        <li><strong>Enterprise System Administration:</strong> Primary administrator for NetSuite and SAP Concur, maintaining system health and ensuring accuracy of critical financial data and transaction integrity.</li>
+                        <li><strong>Security Control Engineering:</strong> Architected and implemented robust security controls including RBAC, MFA, patch management, backup strategies, and incident notification procedures.</li>
+                        <li><strong>Workflow Automation:</strong> Leveraged Celigo to design complex automated integrations and workflows with strict change management enforcement and sandbox testing protocols.</li>
+                        <li><strong>Executive Governance:</strong> Created comprehensive financial dashboards and system documentation for C-suite decision-making and compliance oversight.</li>
+                        <li><strong>Vendor Management:</strong> Acted as primary technical liaison ensuring all third-party systems and SLAs adhered to corporate governance and compliance requirements.</li>
                     </ul>
                 </div>
             </div>
