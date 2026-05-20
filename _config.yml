@@ -1,0 +1,37 @@
+# Site configuration
+title: Kamau Williams | GRC & Cybersecurity Professional
+description: Portfolio showcasing IT Risk, Compliance, and Governance expertise with 4+ years of enterprise experience
+url: https://kamauwGRC.github.io
+baseurl: ""
+
+# Author information
+author:
+  name: Kamau Williams
+  email: kamauw925@gmail.com
+  linkedin: linkedin.com/in/kamau-williams-7010831a3/
+  github: github.com/kamauwGRC
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Markdown
+markdown: kramdown
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+paginate: 6
+paginate_path: "/blog/page:num/"
