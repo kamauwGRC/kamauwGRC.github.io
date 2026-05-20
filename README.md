@@ -35,31 +35,6 @@ A professional, sophisticated portfolio website showcasing expertise in IT Risk,
 
 
 
-## Getting Started
-
-### Local Development
-
-```bash
-bundle install
-bundle exec jekyll serve
-# Visit http://localhost:4000
-```
-
-### Deployment
-
-Automatically deployed to GitHub Pages from the `main` branch.
-
-## Customization
-
-- Edit `_config.yml` for site configuration and contact info
-- Modify markdown files in root directory for content
-- Edit `assets/css/style.css` for styling and colors
-
-## Browser Support
-
-- Modern browsers (Chrome, Firefox, Safari, Edge)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-- Responsive on all screen sizes
 
 ---
 
