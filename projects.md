@@ -41,7 +41,7 @@ title: Projects
                     <span class="method-badge">Control Engineering</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Conducted detailed analysis of NetSuite ERP controls, identifying control gaps related to system access, financial data integrity, and transaction processing. Designed and documented remediation strategies aligned with COBIT and internal audit requirements.
+                    <strong>Approach:</strong> Conducted detailed analysis of NetSuite ERP controls, identifying control gaps related to system access, financial data integrity, and transaction processing. Developed risk scoring framework and prioritized remediation roadmap.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
@@ -82,7 +82,7 @@ title: Projects
                     <span class="method-badge">Incident Monitoring</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Implemented multi-layered security architecture including role-based access control (RBAC) policies, multi-factor authentication (MFA) enforcement, automated patch management protocols, and backup strategies. Deployed automated alert triggers for suspicious activity monitoring.
+                    <strong>Approach:</strong> Implemented multi-layered security architecture including role-based access control (RBAC) policies, multi-factor authentication (MFA) enforcement, automated patching, and real-time alerting capabilities. Established monitoring protocols for security event detection and response.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
@@ -123,7 +123,7 @@ title: Projects
                     <span class="method-badge">Change Management</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Leveraged Celigo integration platform to build complex, mission-critical workflows connecting NetSuite ERP and SAP Concur. Maintained strict change management governance through sandbox testing environments and deployment procedures.
+                    <strong>Approach:</strong> Leveraged Celigo integration platform to build complex, mission-critical workflows connecting NetSuite ERP and SAP Concur. Maintained strict change management controls with comprehensive testing and approval workflows before production deployment.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
@@ -164,7 +164,7 @@ title: Projects
                     <span class="method-badge">Tabletop Exercises</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Led enterprise incident response team through iterative policy development process. Coordinated stakeholder engagement, incorporated feedback loops, and executed tabletop exercises to validate incident response procedures.
+                    <strong>Approach:</strong> Led enterprise incident response team through iterative policy development process. Coordinated stakeholder engagement, incorporated feedback loops, and designed realistic tabletop scenarios for team training and capability validation.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
@@ -205,7 +205,7 @@ title: Projects
                     <span class="method-badge">Penetration Testing</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Applied industry-standard hardening methodologies to both Windows and Linux servers. Configured firewalls with layered security rules, conducted vulnerability assessments, and performed penetration testing to validate security posture.
+                    <strong>Approach:</strong> Applied industry-standard hardening methodologies to both Windows and Linux servers. Configured firewalls with layered security rules, conducted vulnerability scans, and performed penetration testing to validate control effectiveness.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
@@ -246,7 +246,7 @@ title: Projects
                     <span class="method-badge">Framework Adaptation</span>
                 </div>
                 <p class="project-summary">
-                    <strong>Approach:</strong> Decomposed NIST CSF 2.0 framework to create simplified, actionable security checklists for resource-constrained environments. Developed HECVAT integration roadmap for educational client vendor assessments. Built digital assessment infrastructure including automated intake and structured forms.
+                    <strong>Approach:</strong> Decomposed NIST CSF 2.0 framework to create simplified, actionable security checklists for resource-constrained environments. Developed HECVAT integration strategy and built digital assessment platform for streamlined client onboarding.
                 </p>
                 <p class="project-summary">
                     <strong>Key Deliverables:</strong>
