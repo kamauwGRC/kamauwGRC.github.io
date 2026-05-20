@@ -2,12 +2,6 @@
 
 A professional, sophisticated portfolio website showcasing expertise in IT Risk, Governance, and Compliance (GRC).
 
-## Design Philosophy
-
-- **Professional & Non-Technical**: Business-focused design with plenty of white space
-- **Sophisticated Color Scheme**: Deep navy (#1a3a52) primary, slate (#4a5568) secondary, teal (#0d9488) accent
-- **Clean Typography**: Inter font family for modern, professional appearance
-- **Responsive Design**: Fully mobile-optimized
 
 ## Site Structure
 
@@ -39,29 +33,7 @@ A professional, sophisticated portfolio website showcasing expertise in IT Risk,
    - Areas of expertise
    - Call-to-action sections
 
-## Key Features
 
-✨ **Sophisticated Design**
-- Deep navy and slate primary colors
-- Professional teal accent color
-- Plenty of white space and breathing room
-- Hover effects and smooth transitions
-
-📱 **Responsive**
-- Mobile-first approach
-- Adaptive layouts for all screen sizes
-- Touch-friendly navigation
-
-🏢 **Business-Focused**
-- Project case studies with business impact
-- Timeline visualization for experience
-- Skills organized by competency area
-- Achievement badges and highlights
-
-⚡ **Performance**
-- Built with Jekyll for GitHub Pages
-- Minimal external dependencies
-- Fast load times
 
 ## Getting Started
 
