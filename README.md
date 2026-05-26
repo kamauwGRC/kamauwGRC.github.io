@@ -1,33 +1,33 @@
 # Kamau Williams - Portfolio Website
 
-A professional, sophisticated portfolio website showcasing my expertise in IT Operations, IT Risk, Governance, and Compliance (GRC).
+Bridging the Gap Between IT Operations, Risk Management, and Business Compliance
 
 
 ## Site Structure
 
 ### Pages
 
-1. [**Home**](/index.md)
+1. [**Home**](/index.md) (`index.md`)
    - Hero section highlighting key expertise
    - Highlights of major achievements
    - About summary
    - CTA section
 
-2. [**Experience**](/experience.md)
+2. [**Experience**](/experience.md) (`experience.md`)
    - Professional timeline with detailed accomplishments
    - Education and certifications
 
-3. [**Projects**](/projects.md)
-   - My featured projects showcasing real-world GRC/I.T professional work
+3. [**Projects**](/projects.md) (`projects.md`)
+   - My featured projects showcasing real-world GRC/IT professional work
 
-4. [**Skills**](/skills.md)
+4. [**Skills**](/skills.md) (`skills.md`)
    - Governance & Risk Management
    - Compliance Operations
    - Security Control Engineering
    - Systems & Technologies
    - Professional Certifications
 
-5. [**Contact**](/contact.md)
+5. [**Contact**](/contact.md) (`contact.md`)
    - Multiple contact methods
    - Areas of expertise
    - Call-to-action sections
