@@ -7,7 +7,7 @@ title: Home
 
 **CRISC Certified | Enterprise GRC | 4+ Years Experience**
 
-I help organizations identify control gaps, mitigate enterprise risks, and build resilient governance frameworks aligned with NIST, ISO 27001, and COBIT standards.
+I help organizations implment new technology, mitigate enterprise risks, and build resilient governance frameworks aligned with NIST and ISO 27001 standards.
 
 [View My Work](/projects.md) | [Get In Touch](/contact.md)
 
