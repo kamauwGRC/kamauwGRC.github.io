@@ -7,27 +7,27 @@ A professional, sophisticated portfolio website showcasing my expertise in IT Op
 
 ### Pages
 
-1. **Home** (`index.md`)
+1. [**Home**](/index.md)
    - Hero section highlighting key expertise
    - Highlights of major achievements
    - About summary
    - CTA section
 
-2. **Experience** (`experience.md`)
+2. [**Experience**](/experience.md)
    - Professional timeline with detailed accomplishments
    - Education and certifications
 
-3. **Projects** (`projects.md`)
+3. [**Projects**](/projects.md)
    - My featured projects showcasing real-world GRC/I.T professional work
 
-4. **Skills** (`skills.md`)
+4. [**Skills**](/skills.md)
    - Governance & Risk Management
    - Compliance Operations
    - Security Control Engineering
    - Systems & Technologies
    - Professional Certifications
 
-5. **Contact** (`contact.md`)
+5. [**Contact**](/contact.md)
    - Multiple contact methods
    - Areas of expertise
    - Call-to-action sections
