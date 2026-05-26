@@ -1,6 +1,6 @@
-# Kamau Williams - GRC Portfolio Website
+# Kamau Williams - Portfolio Website
 
-A professional, sophisticated portfolio website showcasing expertise in IT Risk, Governance, and Compliance (GRC).
+A professional, sophisticated portfolio website showcasing my expertise in IT Operations, IT Risk, Governance, and Compliance (GRC).
 
 
 ## Site Structure
