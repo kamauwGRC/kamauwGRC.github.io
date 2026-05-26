@@ -9,7 +9,7 @@ title: Home
 
 I help organizations identify control gaps, mitigate enterprise risks, and build resilient governance frameworks aligned with NIST, ISO 27001, and COBIT standards.
 
-[View My Work](/projects.html) | [Get In Touch](/contact.html)
+[View My Work](/projects.md) | [Get In Touch](/contact.md)
 
 ## Key Highlights
 
@@ -32,11 +32,11 @@ Currently pursuing my CISM certification, with plans to deepen expertise in spec
 
 ## Explore My Work
 
-**[View My Projects](/projects.html)**  
+**[View My Projects](/projects.md)**  
 Explore detailed case studies of enterprise risk assessments, compliance initiatives, and process automation projects
 
-**[My Experience](/experience.html)**  
+**[My Experience](/experience.md)**  
 Learn about my professional journey, roles, and certifications in IT Risk and Compliance
 
-**[Skills & Expertise](/skills.html)**  
+**[Skills & Expertise](/skills.md)**  
 Discover the frameworks, tools, and methodologies I specialize in
