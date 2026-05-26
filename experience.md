@@ -5,27 +5,7 @@ title: Experience
 
 # Professional Experience
 
-4+ years of expertise in IT Risk, Governance, and Compliance across enterprise environments
-
----
-
-## Current Role
-
-### Principal Consultant, UMA Cyber Risk Management
-
-**2026 – Present**
-
-Strategic initiative focused on designing, scaling, and delivering tailored, right-sized GRC solutions for small-to-medium businesses (SMBs), educational institutions, and emerging organizations.
-
-**Key Responsibilities:**
-
-- **Framework Adaptation & Engineering:** Decomposed NIST CSF 2.0 framework to develop actionable, simplified security checklists specifically tailored to low-resource environments. Translated complex governance standards into practical implementation guides.
-
-- **HECVAT Integration Strategy:** Formulated roadmap to integrate the Higher Education Community Vendor Assessment Tool (HECVAT 4.0) into service offerings, enabling streamlined vendor risk assessment for educational clients.
-
-- **Digital Architecture & Automation:** Built and launched firm's digital presence at umarisk.com, designing automated client intake and structured assessment workflows to enhance service delivery efficiency.
-
-- **Peer Review & Methodology Refinement:** Collaborated with cybersecurity professionals to stress-test governance methodologies and optimize control clarity, ensuring practical applicability across diverse organizational contexts.
+4+ years of expertise in IT Operations - Risk, Governance, and Compliance across enterprise environments
 
 ---
 
