@@ -3,269 +3,140 @@ layout: default
 title: Projects
 ---
 
-<section class="page-header">
-    <div class="container">
-        <h1>GRC Projects & Case Studies</h1>
-        <p>Real-world examples of risk assessment, compliance initiatives, and process automation</p>
-    </div>
-</section>
+# GRC Projects & Case Studies
 
-<section class="projects-section">
-    <div class="container">
-        <div class="projects-grid">
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>Enterprise-Wide Risk Assessment & Financial Control Remediation</h3>
-                    <span class="project-tag">NetSuite ERP</span>
-                </div>
-                <p class="project-description">
-                    Comprehensive IT control assessment across NetSuite ERP identifying high-priority risks and designing strategic mitigation roadmap.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Impact:</strong>
-                        <span>$4M financial risk mitigated</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>09/2024 – 11/2025</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Organization:</strong>
-                        <span>Cognia</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">Risk Assessment</span>
-                    <span class="method-badge">ITGC</span>
-                    <span class="method-badge">Control Engineering</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Conducted detailed analysis of NetSuite ERP controls, identifying control gaps related to system access, financial data integrity, and transaction processing. Developed risk scoring framework and prioritized remediation roadmap.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>Control gap assessment and risk scoring framework</li>
-                        <li>Strategic remediation roadmap with prioritized initiatives</li>
-                        <li>Executive-level risk dashboard and reporting</li>
-                        <li>Control documentation and testing procedures</li>
-                    </ul>
-                </p>
-            </article>
-            
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>Enterprise Security Control Engineering</h3>
-                    <span class="project-tag">Security Controls</span>
-                </div>
-                <p class="project-description">
-                    Architected and deployed enterprise-grade security controls across application stack including RBAC, MFA, patch management, and automated monitoring.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Focus:</strong>
-                        <span>Hardening & Control Implementation</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>09/2024 – 11/2025</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Organization:</strong>
-                        <span>Cognia</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">Control Engineering</span>
-                    <span class="method-badge">Access Management</span>
-                    <span class="method-badge">Incident Monitoring</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Implemented multi-layered security architecture including role-based access control (RBAC) policies, multi-factor authentication (MFA) enforcement, automated patching, and real-time alerting capabilities. Established monitoring protocols for security event detection and response.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>RBAC policy framework and access provisioning procedures</li>
-                        <li>MFA deployment and user enrollment strategy</li>
-                        <li>Automated alert configuration for anomalous activity detection</li>
-                        <li>Backup and disaster recovery testing protocols</li>
-                    </ul>
-                </p>
-            </article>
-            
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>Workflow Automation & Integration Engineering</h3>
-                    <span class="project-tag">Celigo</span>
-                </div>
-                <p class="project-description">
-                    Designed and executed complex automated integrations between enterprise systems using Celigo, enforcing strict change management governance.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Tools:</strong>
-                        <span>Celigo, NetSuite, SAP Concur</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>09/2024 – 11/2025</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Organization:</strong>
-                        <span>Cognia</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">Workflow Automation</span>
-                    <span class="method-badge">Integration Design</span>
-                    <span class="method-badge">Change Management</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Leveraged Celigo integration platform to build complex, mission-critical workflows connecting NetSuite ERP and SAP Concur. Maintained strict change management controls with comprehensive testing and approval workflows before production deployment.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>Celigo integration architecture and design documentation</li>
-                        <li>Automated workflow build-out connecting key systems</li>
-                        <li>Sandbox testing framework and UAT procedures</li>
-                        <li>Change management enforcement and production deployment protocols</li>
-                    </ul>
-                </p>
-            </article>
-            
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>Cyber Defense Incident Response Program</h3>
-                    <span class="project-tag">Academic</span>
-                </div>
-                <p class="project-description">
-                    Led cross-functional team in developing comprehensive information security incident response policies, procedures, and tabletop exercises.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Role:</strong>
-                        <span>Incident Response Lead</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>01/2023 – 05/2023</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Institution:</strong>
-                        <span>Kennesaw State University</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">Incident Response</span>
-                    <span class="method-badge">Policy Development</span>
-                    <span class="method-badge">Tabletop Exercises</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Led enterprise incident response team through iterative policy development process. Coordinated stakeholder engagement, incorporated feedback loops, and designed realistic tabletop scenarios for team training and capability validation.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>Comprehensive incident response policy framework</li>
-                        <li>Response procedures and escalation protocols</li>
-                        <li>Tabletop exercise scenarios and facilitation materials</li>
-                        <li>Lessons learned documentation and continuous improvement roadmap</li>
-                    </ul>
-                </p>
-            </article>
-            
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>Microsoft & Linux Server Hardening</h3>
-                    <span class="project-tag">Security Engineering</span>
-                </div>
-                <p class="project-description">
-                    Configured and hardened Windows and Linux servers to minimize vulnerabilities, implementing industry-standard security best practices.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Focus:</strong>
-                        <span>Infrastructure Hardening</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>08/2022 – 12/2022</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Institution:</strong>
-                        <span>Kennesaw State University</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">Server Hardening</span>
-                    <span class="method-badge">Vulnerability Management</span>
-                    <span class="method-badge">Penetration Testing</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Applied industry-standard hardening methodologies to both Windows and Linux servers. Configured firewalls with layered security rules, conducted vulnerability scans, and performed penetration testing to validate control effectiveness.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>Server hardening configuration documentation</li>
-                        <li>Firewall rule set implementation (layered security approach)</li>
-                        <li>Vulnerability assessment and scan results</li>
-                        <li>Penetration test findings and remediation guidance</li>
-                    </ul>
-                </p>
-            </article>
-            
-            <article class="project-card">
-                <div class="project-card-header">
-                    <h3>GRC Solution Design for SMBs & Educational Institutions</h3>
-                    <span class="project-tag">Enterprise Consulting</span>
-                </div>
-                <p class="project-description">
-                    Designed and deployed tailored, right-sized GRC solutions for small-to-medium businesses and educational organizations with limited resources.
-                </p>
-                <div class="project-details">
-                    <div class="detail-item">
-                        <strong>Role:</strong>
-                        <span>Principal Consultant</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Duration:</strong>
-                        <span>2026 – Present</span>
-                    </div>
-                    <div class="detail-item">
-                        <strong>Organization:</strong>
-                        <span>UMA Cyber Risk Management</span>
-                    </div>
-                </div>
-                <div class="project-methods">
-                    <span class="method-badge">NIST CSF</span>
-                    <span class="method-badge">HECVAT</span>
-                    <span class="method-badge">Framework Adaptation</span>
-                </div>
-                <p class="project-summary">
-                    <strong>Approach:</strong> Decomposed NIST CSF 2.0 framework to create simplified, actionable security checklists for resource-constrained environments. Developed HECVAT integration strategy and built digital assessment platform for streamlined client onboarding.
-                </p>
-                <p class="project-summary">
-                    <strong>Key Deliverables:</strong>
-                    <ul>
-                        <li>Simplified NIST CSF 2.0 security checklists for SMBs</li>
-                        <li>HECVAT 4.0 integration strategy and implementation roadmap</li>
-                        <li>Digital client intake and automated assessment platform</li>
-                        <li>Peer-reviewed governance methodologies</li>
-                    </ul>
-                </p>
-            </article>
-        </div>
-    </div>
-</section>
+Real-world examples of risk assessment, compliance initiatives, and process automation
 
-<section class="project-cta">
-    <div class="container">
-        <h2>Let's Work Together</h2>
-        <p>Interested in discussing your organization's risk, compliance, or governance challenges?</p>
-        <a href="{{ '/contact.html' | relative_url }}" class="btn btn-primary">Get In Touch</a>
-    </div>
-</section>
+---
+
+## Enterprise-Wide Risk Assessment & Financial Control Remediation
+
+**NetSuite ERP** | Cognia | 09/2024 – 11/2025
+
+Comprehensive IT control assessment across NetSuite ERP identifying high-priority risks and designing strategic mitigation roadmap.
+
+**Impact:** $4M financial risk mitigated
+
+### Approach
+Conducted detailed analysis of NetSuite ERP controls, identifying control gaps related to system access, financial data integrity, and transaction processing. Developed prioritized remediation roadmap with executive-level risk dashboards and comprehensive control documentation.
+
+### Key Deliverables
+- Control gap assessment and risk scoring framework
+- Strategic remediation roadmap with prioritized initiatives
+- Executive-level risk dashboard and reporting
+- Control documentation and testing procedures
+
+**Methods:** Risk Assessment | ITGC | Control Engineering
+
+---
+
+## Enterprise Security Control Engineering
+
+**Security Controls** | Cognia | 09/2024 – 11/2025
+
+Architected and deployed enterprise-grade security controls across application stack including RBAC, MFA, patch management, and automated monitoring.
+
+**Focus:** Hardening & Control Implementation
+
+### Approach
+Implemented multi-layered security architecture including role-based access control (RBAC) policies, multi-factor authentication (MFA) enforcement, automated patch management, and comprehensive security monitoring. Designed incident response protocols and backup/disaster recovery procedures.
+
+### Key Deliverables
+- RBAC policy framework and access provisioning procedures
+- MFA deployment and user enrollment strategy
+- Automated alert configuration for anomalous activity detection
+- Backup and disaster recovery testing protocols
+
+**Methods:** Control Engineering | Access Management | Incident Monitoring
+
+---
+
+## Workflow Automation & Integration Engineering
+
+**Celigo** | Cognia | 09/2024 – 11/2025
+
+Designed and executed complex automated integrations between enterprise systems using Celigo, enforcing strict change management governance.
+
+**Tools:** Celigo, NetSuite, SAP Concur
+
+### Approach
+Leveraged Celigo integration platform to build complex, mission-critical workflows connecting NetSuite ERP and SAP Concur. Maintained strict change management enforcement, implemented sandbox testing frameworks, and executed comprehensive user acceptance testing (UAT).
+
+### Key Deliverables
+- Celigo integration architecture and design documentation
+- Automated workflow build-out connecting key systems
+- Sandbox testing framework and UAT procedures
+- Change management enforcement and production deployment protocols
+
+**Methods:** Workflow Automation | Integration Design | Change Management
+
+---
+
+## Cyber Defense Incident Response Program
+
+**Academic** | Kennesaw State University | 01/2023 – 05/2023
+
+Led cross-functional team in developing comprehensive information security incident response policies, procedures, and tabletop exercises.
+
+**Role:** Incident Response Lead
+
+### Approach
+Led enterprise incident response team through iterative policy development process. Coordinated stakeholder engagement, incorporated feedback loops, facilitated tabletop exercises, and documented lessons learned for continuous improvement.
+
+### Key Deliverables
+- Comprehensive incident response policy framework
+- Response procedures and escalation protocols
+- Tabletop exercise scenarios and facilitation materials
+- Lessons learned documentation and continuous improvement roadmap
+
+**Methods:** Incident Response | Policy Development | Tabletop Exercises
+
+---
+
+## Microsoft & Linux Server Hardening
+
+**Security Engineering** | Kennesaw State University | 08/2022 – 12/2022
+
+Configured and hardened Windows and Linux servers to minimize vulnerabilities, implementing industry-standard security best practices.
+
+**Focus:** Infrastructure Hardening
+
+### Approach
+Applied industry-standard hardening methodologies to both Windows and Linux servers. Configured firewalls with layered security rules, conducted vulnerability scans, executed penetration testing, and documented remediation guidance.
+
+### Key Deliverables
+- Server hardening configuration documentation
+- Firewall rule set implementation (layered security approach)
+- Vulnerability assessment and scan results
+- Penetration test findings and remediation guidance
+
+**Methods:** Server Hardening | Vulnerability Management | Penetration Testing
+
+---
+
+## GRC Solution Design for SMBs & Educational Institutions
+
+**Enterprise Consulting** | UMA Cyber Risk Management | 2026 – Present
+
+Designed and deployed tailored, right-sized GRC solutions for small-to-medium businesses and educational organizations with limited resources.
+
+**Role:** Principal Consultant
+
+### Approach
+Decomposed NIST CSF 2.0 framework to create simplified, actionable security checklists for resource-constrained environments. Developed HECVAT integration strategy, built digital client intake platform, and created peer-reviewed governance methodologies.
+
+### Key Deliverables
+- Simplified NIST CSF 2.0 security checklists for SMBs
+- HECVAT 4.0 integration strategy and implementation roadmap
+- Digital client intake and automated assessment platform
+- Peer-reviewed governance methodologies
+
+**Methods:** NIST CSF | HECVAT | Framework Adaptation
+
+---
+
+## Let's Work Together
+
+Interested in discussing your organization's risk, compliance, or governance challenges?
+
+[Get In Touch](/contact.html)
