@@ -14,12 +14,11 @@ A professional, sophisticated portfolio website showcasing expertise in IT Risk,
    - CTA section
 
 2. **Experience** (`experience.md`)
-   - Current role at UMA Cyber Risk Management
    - Professional timeline with detailed accomplishments
    - Education and certifications
 
 3. **Projects** (`projects.md`)
-   - 6 featured projects showcasing real-world GRC work
+   - My featured projects showcasing real-world GRC/I.T professional work
 
 4. **Skills** (`skills.md`)
    - Governance & Risk Management
