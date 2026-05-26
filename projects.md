@@ -179,7 +179,7 @@ Applied industry-standard hardening methodologies to both Windows and Linux serv
 
 Designed and deployed tailored, right-sized GRC solutions for small-to-medium businesses and educational organizations with limited resources.
 
-**Role:** Principal Consultant
+**Role:** Consultant
 
 ### Approach
 Decomposed NIST CSF 2.0 framework to create simplified, actionable security checklists for resource-constrained environments. Developed HECVAT integration strategy, built digital client intake platform, and created peer-reviewed governance methodologies.
